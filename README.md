@@ -1,4 +1,5 @@
 new line from git
+second line added
 dummy line added
 another dummy line
 second line new line
