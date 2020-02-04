@@ -1,4 +1,5 @@
 new line
+number string
 next line
  ignore this line added for conflicts dont ignore
 This is a simple project that trains a logistic regression model.
