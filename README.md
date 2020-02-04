@@ -1,4 +1,4 @@
-Dummy line
+new line added Dummy line
 another dummy line
 second line new line
 number string
