@@ -1,4 +1,4 @@
-new line
+second line new line
 number string
 next line
  ignore this line added for conflicts dont ignore
