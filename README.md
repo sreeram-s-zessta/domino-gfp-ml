@@ -1,3 +1,4 @@
+Dummy line
 second line new line
 number string
 next line
