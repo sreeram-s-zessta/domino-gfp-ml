@@ -10,6 +10,7 @@ This is a simple project that trains a logistic regression model.
 some line added
 
 # Requirements
+* db
 * python3 
 * pandas
 * sklearn
